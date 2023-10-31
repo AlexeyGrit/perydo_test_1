@@ -82,3 +82,4 @@ num_dice_1 = 5
 num_dice_2 = 5
 
 play_round(num_dice_1, num_dice_2)
+#Кирилл красивый
